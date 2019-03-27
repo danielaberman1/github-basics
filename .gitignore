@@ -16,6 +16,7 @@ build/*
 *.txt
 # Except read me
 !README.txt
+!hello.txt
 
 # Exclude log files
 *.log
